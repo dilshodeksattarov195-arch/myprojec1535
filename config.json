@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperselete",
+        "uuid": 1762180,
+        "checksum": "4gmog"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
